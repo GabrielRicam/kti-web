@@ -900,8 +900,20 @@ div.content{
     gap: 0 5vw;
     color: #2A2A2A;
 }
-
-
+#penutup h1{
+    position: absolute;
+    transform: translateY(-300px);
+}
+.hehe{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    background-color: white;
+    transform: translateY(50px);
+    width: 200px;
+    height: 200px;
+    z-index: 999;    
+}
 
 /* javascript transition */
 section{

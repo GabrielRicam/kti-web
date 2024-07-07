@@ -2,6 +2,12 @@
     h1{
         font-size: 3rem !important;
     }
+    spline-viewer{
+        display: none;
+    }
+    .hehe{
+        display: none;
+    }
     h3{
         font-size: 2rem !important;
     }
